@@ -1,0 +1,6 @@
+catboost_info/
+__pycache__/
+submission*.csv
+.ipynb_checkpoints/
+.git/
+test*.csv
